@@ -1,0 +1,90 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "That flying thing is so fast!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I'm not going to catch up to it",
+                "if I'm half-hearted about it!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Gensokyo is so cramped and small."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Where are you going in such a hurry?"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Out of my way!",
+                "Hm, you were here before, too, little gray youkai."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "I don't have the time to deal with",
+                "small animals that die easily like you!"
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "Steamboat Willie will not die easily."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "Even as we speak, that treasure ship",
+                "is getting away, far away..."
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "Treasure ship?",
+                "You mean <i$that> thing floating in the sky?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Ohoho, are you stupid?",
+                "Did you really think that's a treasure ship?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Fine, whatever, I'm stupid,",
+                "now get out of my way!"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "If you're looking for treasure, don't look in the sky.",
+                "There's lots packed away in kitchen nooks and crannies."
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Aw, it disappeared into the clouds."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "I guess I'll have to go",
+                "further into the clouds."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "But I bet there's tons of youkai up there, ugh..."
+            ]
+        }
+    }
+}
