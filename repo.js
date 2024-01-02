@@ -6,6 +6,6 @@
         "https://raw.githubusercontent.com/megapig9001/megapig9001-mods/main/"
     ],
     "patches": {
-        "SteamboatWillie: TH12. Replaces Nazrins Sprites with Steamboat Willie (Drawn by Zzzzoozie). Also edits some dialouge.",
+        "SteamboatWillie": "TH12. Replaces Nazrins Sprites with Steamboat Willie (Drawn by Zzzzoozie). Also edits some dialouge."
     }
 }
